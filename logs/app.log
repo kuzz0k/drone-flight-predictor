@@ -82,3 +82,12 @@
 2025-06-16 10:47:04,881 - app.api.predict - INFO - Kinematic-only prediction used
 2025-06-16 10:47:04,881 - app.api.predict - INFO - Input points: [[0.0, 0.0, 0.0], [1.0, 1.0, 1.0], [4.0, 4.0, 4.0], [6.0, 6.0, 6.0], [7.0, 7.0, 7.0]]
 2025-06-16 10:47:04,882 - app.api.predict - INFO - Final prediction: [7.5, 7.5, 7.5]
+2025-06-16 10:48:40,266 - app.api.predict - INFO - Kinematic-only prediction used
+2025-06-16 10:48:40,266 - app.api.predict - INFO - Input points: [[0.0, 0.0, 0.0], [2.0, 3.0, 3.0], [4.0, 4.0, 4.0], [6.0, 5.0, 6.0], [7.0, 8.0, 15.0]]
+2025-06-16 10:48:40,266 - app.api.predict - INFO - Final prediction: [7.5, 12.0, 27.5]
+2025-06-16 10:48:45,280 - app.api.predict - INFO - Kinematic-only prediction used
+2025-06-16 10:48:45,280 - app.api.predict - INFO - Input points: [[0.0, 0.0, 0.0], [2.0, 3.0, 3.0], [4.0, 4.0, 4.0], [6.0, 5.0, 6.0], [7.0, 8.0, 9.0]]
+2025-06-16 10:48:45,280 - app.api.predict - INFO - Final prediction: [7.5, 12.0, 12.5]
+2025-06-16 11:02:27,975 - app.api.predict - INFO - Kinematic-only prediction used
+2025-06-16 11:02:27,976 - app.api.predict - INFO - Input points: [[0.0, 0.0, 0.0], [2.0, 3.0, 3.0], [4.0, 4.0, 4.0], [6.0, 5.0, 6.0], [7.0, 8.0, 9.0]]
+2025-06-16 11:02:27,976 - app.api.predict - INFO - Final prediction: [7.5, 12.0, 12.5]
