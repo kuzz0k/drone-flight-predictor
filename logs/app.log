@@ -62,3 +62,23 @@
 2025-06-16 10:14:50,991 - app.api.predict - INFO - Kinematic-only prediction used
 2025-06-16 10:14:50,991 - app.api.predict - INFO - Input points: [[0.0, 0.0, 0.0], [2.0, 3.0, 3.0], [4.0, 4.0, 4.0], [6.0, 5.0, 6.0], [7.0, 8.0, 9.0]]
 2025-06-16 10:14:50,991 - app.api.predict - INFO - Final prediction: [7.5, 12.0, 12.5]
+2025-06-16 10:35:07,497 - app.api.predict - INFO - Kinematic-only prediction used
+2025-06-16 10:35:07,497 - app.api.predict - INFO - Input points: [[0.0, 0.0, 0.0], [2.0, 3.0, 3.0], [4.0, 4.0, 4.0], [6.0, 5.0, 6.0], [7.0, 8.0, 9.0]]
+2025-06-16 10:35:07,498 - app.api.predict - INFO - Final prediction: [7.5, 12.0, 12.5]
+2025-06-16 10:35:13,582 - app.api.predict - INFO - Kinematic-only prediction used
+2025-06-16 10:35:13,583 - app.api.predict - INFO - Input points: [[0.0, 0.0, 0.0], [2.0, 3.0, 3.0], [4.0, 4.0, 4.0], [6.0, 5.0, 6.0], [7.0, 8.0, 15.0]]
+2025-06-16 10:35:13,583 - app.api.predict - INFO - Final prediction: [7.5, 12.0, 27.5]
+2025-06-16 10:43:02,354 - app.api.predict - INFO - Kinematic-only prediction used
+2025-06-16 10:43:02,550 - app.api.predict - INFO - Input points: [[0.0, 0.0, 0.0], [1.0, 1.0, 1.0], [2.0, 2.0, 2.0], [3.0, 3.0, 3.0], [4.0, 4.0, 4.0]]
+2025-06-16 10:43:02,550 - app.api.predict - INFO - Final prediction: [5.0, 5.0, 5.0]
+2025-06-16 10:46:04,723 - app.main - INFO - Запуск drone-flight-predictor v1.0.0
+2025-06-16 10:46:11,371 - app.api.predict - INFO - Kinematic-only prediction used
+2025-06-16 10:46:11,372 - app.api.predict - INFO - Input points: [[0.0, 0.0, 0.0], [1.0, 1.0, 1.0], [2.0, 2.0, 2.0], [3.0, 3.0, 3.0], [4.0, 4.0, 4.0]]
+2025-06-16 10:46:11,372 - app.api.predict - INFO - Final prediction: [5.0, 5.0, 5.0]
+2025-06-16 10:46:38,731 - app.main - INFO - Остановка сервиса
+2025-06-16 10:46:41,322 - app.main - INFO - Запуск drone-flight-predictor v1.0.0
+2025-06-16 10:46:53,982 - app.main - INFO - Остановка сервиса
+2025-06-16 10:46:56,287 - app.main - INFO - Запуск drone-flight-predictor v1.0.0
+2025-06-16 10:47:04,881 - app.api.predict - INFO - Kinematic-only prediction used
+2025-06-16 10:47:04,881 - app.api.predict - INFO - Input points: [[0.0, 0.0, 0.0], [1.0, 1.0, 1.0], [4.0, 4.0, 4.0], [6.0, 6.0, 6.0], [7.0, 7.0, 7.0]]
+2025-06-16 10:47:04,882 - app.api.predict - INFO - Final prediction: [7.5, 7.5, 7.5]

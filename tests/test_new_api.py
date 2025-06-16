@@ -13,7 +13,7 @@ test_data = {
 }
 
 # URL сервера
-url = "http://localhost:8001/predict/"
+url = "http://localhost:8000/predict/"
 
 try:
     # Отправляем POST запрос
