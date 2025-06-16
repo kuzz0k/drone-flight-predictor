@@ -68,7 +68,7 @@ cd drone-flight-predictor
 python -m venv .venv
 
 # Активируем окружение (Windows)
-.venv\Scripts\Activate.ps1
+.venv\Scripts\Activate
 
 # Устанавливаем зависимости
 pip install -r requirements.txt
