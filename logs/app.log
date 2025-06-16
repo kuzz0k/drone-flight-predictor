@@ -55,3 +55,10 @@
 2025-06-11 16:40:28,403 - app.main - INFO - Остановка сервиса
 2025-06-11 16:40:33,784 - app.main - INFO - Запуск drone-flight-predictor v1.0.0
 2025-06-11 16:48:55,656 - app.main - INFO - Запуск drone-flight-predictor v1.0.0
+2025-06-16 10:12:57,394 - app.main - INFO - Запуск drone-flight-predictor v1.0.0
+2025-06-16 10:13:39,265 - app.api.predict - INFO - Kinematic-only prediction used
+2025-06-16 10:13:39,265 - app.api.predict - INFO - Input points: [[0.0, 0.0, 0.0], [1.0, 3.0, 1.0], [2.0, 4.0, 4.0], [6.0, 5.0, 6.0], [8.0, 8.0, 7.0]]
+2025-06-16 10:13:39,265 - app.api.predict - INFO - Final prediction: [9.0, 12.0, 7.5]
+2025-06-16 10:14:50,991 - app.api.predict - INFO - Kinematic-only prediction used
+2025-06-16 10:14:50,991 - app.api.predict - INFO - Input points: [[0.0, 0.0, 0.0], [2.0, 3.0, 3.0], [4.0, 4.0, 4.0], [6.0, 5.0, 6.0], [7.0, 8.0, 9.0]]
+2025-06-16 10:14:50,991 - app.api.predict - INFO - Final prediction: [7.5, 12.0, 12.5]
