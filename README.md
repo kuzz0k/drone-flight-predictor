@@ -61,7 +61,7 @@ drone-flight-predictor/
 
 ```powershell
 # Клонируем репозиторий
-git clone <repository-url>
+git clone https://github.com/kuzz0k/drone-flight-predictor.git
 cd drone-flight-predictor
 
 # Создаем виртуальное окружение
